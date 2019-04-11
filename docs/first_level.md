@@ -25,7 +25,7 @@ Files that are needed to run a first level analsyis are
 The Registation of the high resolution to standard image should look something
 like this.
 
-![highres2standard.png]
+![alttext](highres2standard.png)
 
 If there are substantial red lines outside of the brain, then there may
 be problems, and you should flag the subject for review.
